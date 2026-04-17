@@ -89,7 +89,7 @@ used-car-auction
 ### 1️⃣ Clone repository
 
 
-git clone https://github.com/your-username/used-car-auction.git
+git clone https://github.com/Harshit8384/used-car-auction.git
 
 cd used-car-auction
 
