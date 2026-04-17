@@ -18,3 +18,16 @@ frontend/build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# frontend dependencies
+frontend/node_modules/
+
+# production build folder
+frontend/dist/
+frontend/build/
+
+# environment variables (contains secrets)
+frontend/.env
+
+# optional logs
+*.log
