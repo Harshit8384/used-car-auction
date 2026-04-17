@@ -177,7 +177,7 @@ VITE_API_URL=http://localhost:8080
 
 ## 👨‍💻 Author
 
-Harsh
+Harshit
 
 ---
 
