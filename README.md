@@ -45,38 +45,44 @@ Built using **Spring Boot (Backend)** and **React (Frontend)** following modern 
 
 ## 📂 Project Structure
 
-
+```
 used-car-auction
 │
 ├── frontend
-│ ├── src
-│ │ ├── components
-│ │ ├── pages
-│ │ ├── services
-│ │ ├── utils
-│ │ ├── context
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ │
-│ ├── package.json
+│   ├── src
+│   │   ├── components
+│   │   ├── context
+│   │   ├── pages
+│   │   ├── services
+│   │   ├── utils
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   │
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── index.html
+│   ├── .env.example
 │
 ├── backend
-│ ├── src/main/java/com/auction
-│ │ ├── controller
-│ │ ├── service
-│ │ ├── repository
-│ │ ├── entity
-│ │ ├── security
-│ │ ├── dto
-│ │ ├── exception
-│ │ └── config
-│ │
-│ ├── pom.xml
+│   ├── src/main/java/com/auction
+│   │   ├── config
+│   │   ├── controller
+│   │   ├── dto
+│   │   ├── entity
+│   │   ├── exception
+│   │   ├── repository
+│   │   ├── security
+│   │   ├── service
+│   │   └── UsedCarAuctionApplication.java
+│   │
+│   ├── src/main/resources
+│   │   └── application.properties
+│   │
+│   ├── pom.xml
 │
+├── .gitignore
 └── README.md
-
-
----
+```
 
 ## ⚙️ Installation & Setup
 
